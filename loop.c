@@ -1,7 +1,7 @@
-#pragma config(	Sensor,	port8,	,	sensorVexIQ_Gyro)
-#pragma config(	Motor,	motor1,	leftMotor,	tmotorVexIQ,	openLoop,			driveLeft,	encoder)
-#pragma config(	Motor,	motor6,	rightMotor,	tmotorVexIQ,	openLoop,	reversed,	driveRight,	encoder)
-#pragma config(	Sensor,	port7,	,	sensorVexIQ_Distance)
+#pragma config(Sensor,	port8,	,	sensorVexIQ_Gyro)
+#pragma config(Motor,	motor1,	leftMotor,	tmotorVexIQ,	openLoop,			driveLeft,	encoder)
+#pragma config(Motor,	motor6,	rightMotor,	tmotorVexIQ,	openLoop,	reversed,	driveRight,	encoder)
+#pragma config(Sensor,	port7,	,	sensorVexIQ_Distance)
 
 #define GYRO	port8
 #define SONAR	port7
